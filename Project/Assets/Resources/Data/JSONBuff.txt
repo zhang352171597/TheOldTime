@@ -1,0 +1,16 @@
+{
+	"Root":[
+{"id":"999","name":"testBuff","type":1,"functionType":0,"duration":3,"frequency":0.5,"buffClips":"[{"referType":1,"referTagType":2,"workType":1,"workTagType":2,"coreValueType":1,"coreValue":-5,"minValue":0,"maxValue":0}]"},
+{"id":"1600101","name":"普攻01_01","type":0,"functionType":0,"duration":0,"frequency":0,"buffClips":"[{"referType":0,"referTagType":0,"workType":1,"workTagType":2,"coreValueType":0,"coreValue":-10,"minValue":0,"maxValue":0}]"},
+{"id":"1600102","name":"普攻01_02","type":0,"functionType":0,"duration":0,"frequency":0,"buffClips":"[{"referType":0,"referTagType":4,"workType":1,"workTagType":2,"coreValueType":1,"coreValue":-35,"minValue":0,"maxValue":-3}]"},
+{"id":"1600103","name":"普攻01_03","type":0,"functionType":0,"duration":0,"frequency":0,"buffClips":"[{"referType":1,"referTagType":2,"workType":1,"workTagType":2,"coreValueType":1,"coreValue":-50,"minValue":0,"maxValue":-20},{"referType":0,"referTagType":3,"workType":0,"workTagType":2,"coreValueType":1,"coreValue":10,"minValue":3,"maxValue":0}]"},
+{"id":"1600301","name":"炎爆","type":0,"functionType":0,"duration":0,"frequency":0,"buffClips":"[{"referType":0,"referTagType":6,"workType":1,"workTagType":2,"coreValueType":1,"coreValue":-50,"minValue":0,"maxValue":-5}]"},
+{"id":"1600401","name":"星火","type":0,"functionType":0,"duration":2,"frequency":0,"buffClips":"[{"referType":0,"referTagType":6,"workType":1,"workTagType":2,"coreValueType":1,"coreValue":-120,"minValue":0,"maxValue":-50}]"},
+{"id":"1600402","name":"星火_灼烧","type":1,"functionType":0,"duration":5,"frequency":1,"buffClips":"[{"referType":0,"referTagType":0,"workType":1,"workTagType":2,"coreValueType":0,"coreValue":-15,"minValue":30,"maxValue":0}]"},
+{"id":"1600501","name":"念气环绕01","type":0,"functionType":0,"duration":0,"frequency":0,"buffClips":"[{"referType":0,"referTagType":6,"workType":1,"workTagType":2,"coreValueType":1,"coreValue":-15,"minValue":0,"maxValue":-3}]"},
+{"id":"1600601","name":"天音波01","type":0,"functionType":0,"duration":0,"frequency":0,"buffClips":"[{"referType":0,"referTagType":4,"workType":1,"workTagType":2,"coreValueType":1,"coreValue":-100,"minValue":0,"maxValue":-10}]"},
+{"id":"1600602","name":"天音波02","type":0,"functionType":0,"duration":0,"frequency":0,"buffClips":"[{"referType":1,"referTagType":3,"workType":1,"workTagType":2,"coreValueType":1,"coreValue":-5,"minValue":0,"maxValue":-15}]"},
+{"id":"1600701","name":"天降1","type":0,"functionType":0,"duration":0,"frequency":0,"buffClips":"[{"referType":0,"referTagType":4,"workType":1,"workTagType":2,"coreValueType":1,"coreValue":-200,"minValue":0,"maxValue":-20}]"},
+{"id":"1600702","name":"天降2","type":2,"functionType":0,"duration":0,"frequency":0,"buffClips":"[{"referType":0,"referTagType":0,"workType":1,"workTagType":8,"coreValueType":0,"coreValue":0,"minValue":0,"maxValue":0}]"},
+	]
+}
